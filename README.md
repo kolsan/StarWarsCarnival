@@ -1,5 +1,5 @@
 # StarWarsCarnival
-Code for Star Wars Carnival project
+Code for Star Wars Carnival project made by Koldo Santisteban - @KoldoSantis
 
 
 For more info please visit the following links:
